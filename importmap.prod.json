@@ -1,0 +1,9 @@
+{
+    "imports": {
+      "@mfe/root-config": "https://172.17.0.2:9000/mfe-root-config.js",
+      "@mfe/header": "https://172.17.0.2:8080/mfe-header.js",
+      "@mfe/geographicVision": "https://172.17.0.2:8081/mfe-geographicVision.js",
+      "@mfe/marketTemporal": "https://172.17.0.2:8082/mfe-marketTemporal.js",
+      "@mfe/manufacturerTemporal": "https://172.17.0.2:8083/mfe-manufacturerTemporal.js"
+    }
+}
